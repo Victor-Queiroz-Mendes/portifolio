@@ -770,6 +770,7 @@ body.light-mode #home img#notebook-2-white {
 
 /*===== KNOWLEDGE ===============================================*/
 
+
 #knowledge header h2 {
   margin-bottom: 6rem;
 }
@@ -803,7 +804,6 @@ body.light-mode #home img#notebook-2-white {
 #knowledge .card img {
   width: 10rem;
 }
-
 /*===== CONTACT ===============================================*/
 
 #contact {
